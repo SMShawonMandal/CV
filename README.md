@@ -1,1 +1,1 @@
-[![CV Preview](cv/cv-preview.png)](cv/Shawon_Mandal.pdf)
+[![CV Preview](cv-preview.png)](CV)
